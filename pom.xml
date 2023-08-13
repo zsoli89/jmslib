@@ -33,4 +33,13 @@
             <optional>true</optional>
         </dependency>
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>commonlib</id>
+            <name>commonlib</name>
+            <url>https://maven.pkg.github.com/zsoli89/jmslib</url>
+        </repository>
+    </distributionManagement>
+
 </project>
