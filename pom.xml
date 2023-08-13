@@ -36,8 +36,8 @@
 
     <distributionManagement>
         <repository>
-            <id>commonlib</id>
-            <name>commonlib</name>
+            <id>jmslib</id>
+            <name>jmslib</name>
             <url>https://maven.pkg.github.com/zsoli89/jmslib</url>
         </repository>
     </distributionManagement>
